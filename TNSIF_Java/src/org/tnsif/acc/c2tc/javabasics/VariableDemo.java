@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.java;
+package org.tnsif.acc.c2tc.javabasics;
 
 public class VariableDemo {
 	int price=10;//instance variable
