@@ -15,7 +15,7 @@ class ProductBottle{
 public class ThisDemo2 {
 
 	public static void main(String[] args) {
-		ProductBottle product=new ProductBottle(400);
+		ProductBottle product=new ProductBottle(400.00);
 		System.out.println("Final Price:"+product.calculateFinalPrice());
 
 	}
