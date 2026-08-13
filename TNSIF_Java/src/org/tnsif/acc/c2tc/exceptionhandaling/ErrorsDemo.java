@@ -5,11 +5,11 @@ public class ErrorsDemo {
 	public static void main(String[] args) {
 		int num1 =20;
 		int num2 =20;
-		int sum=add(num1,num2);
+		int sum=add(num1,num2);//compile time error when miss a semicolon
 		System.out.println(sum);
 	}
 	public static int add(int num1,int num2) {
-		return num1+num2;
+		return num1-num2;//logical error
 	}
 
 }
