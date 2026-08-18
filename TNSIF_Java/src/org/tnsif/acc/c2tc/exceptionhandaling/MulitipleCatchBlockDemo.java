@@ -1,6 +1,6 @@
 package org.tnsif.acc.c2tc.exceptionhandaling;
 
-public class MultipleCatchBlockDemo {
+public class MulitipleCatchBlockDemo {
 
 	public static void main(String[] args) {
 		int numbers[] =new int[4]; //4 elements 0-3
